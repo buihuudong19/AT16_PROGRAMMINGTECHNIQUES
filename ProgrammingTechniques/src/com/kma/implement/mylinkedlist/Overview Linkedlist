@@ -4,3 +4,4 @@
    	+ Chứa data
 2. Về mặt hiệu năng
 	+ LinkedList sử dụng dymanmic memory..
+	+ Tùy từng phương thức mà LinkedList sẽ nhanh hoặc chậm hơn so với ArrayList
