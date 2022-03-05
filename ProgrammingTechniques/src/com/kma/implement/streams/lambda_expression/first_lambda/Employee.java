@@ -45,4 +45,8 @@ public class Employee {
 		return "Employee [id=" + id + ", name=" + name + ", salary=" + salary + "]";
 	}
 
+	public static double getStaticSalary() {
+		return 1200;
+	}
+
 }

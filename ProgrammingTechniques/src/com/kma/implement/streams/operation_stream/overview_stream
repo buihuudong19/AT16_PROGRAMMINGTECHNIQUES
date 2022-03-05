@@ -1,0 +1,4 @@
+Java Stream is a sequency of objects and supporting internal iteration -> Lap va thao tac
+voi cac doi tuong gan nhu la dong thoi (song song)
+- Stream: all operation in collection (objects)
+- Stream: no recommend size of sequence
